@@ -1,0 +1,20 @@
+{
+  "barbers": [
+    {
+      "id": 1,
+      "name": "Demo Barber",
+      "alias": "demo",
+      "phone": "+598000000",
+      "email": "demo@example.com",
+      "isActive": true,
+      "password": "136ecf9c714fd7304e7c9917bb1ad1b0:db61052e68f26b497b85c981eeeaa5b6fb4b2710185a80e73b6c6aaeadb02853",
+      "createdAt": "2025-12-15T02:19:46.049Z",
+      "updatedAt": "2025-12-15T02:19:46.049Z"
+    }
+  ],
+  "services": [],
+  "barberServices": [],
+  "availabilities": [],
+  "appointments": [],
+  "histories": []
+}
